@@ -1,16 +1,16 @@
-## Hi there 👋
+### 👋 你好，我是 suyuan707
 
-<!--
-**suyuan707/suyuan707** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Python后端开发学习者 | 聚焦AI应用工程化
 
-Here are some ideas to get you started:
+#### 🛠 技术栈
+Python · FastAPI · LangChain · 向量数据库 · Docker · MySQL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 📝 技术博客
+掘金主页：[一个美味的春笋 - 掘金](https://juejin.cn/user/2486446117621290)
+- Windows下用Docker + WSL2搭建FastAPI开发环境：从零到跑通的避坑指南
+
+#### 🚀 核心项目
+- 基于FastAPI的RAG智能问答服务（更新中）
+
+#### 📬 联系方式
+邮箱：1683361582@qq.com
